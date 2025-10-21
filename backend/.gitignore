@@ -1,0 +1,8 @@
+node_modules/*
+
+config/config.env
+
+uml/*
+
+testcase1.json
+testcase2.json
